@@ -41,6 +41,7 @@ Run the following command in your terminal to download all the videos to the fol
 
 ```bash
 youtube-dl --username "youremail@example.com" --password "yourPassword" --verbose --sleep-interval 120 "link to course"
+```
 
 Example:
 
