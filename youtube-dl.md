@@ -48,7 +48,6 @@ Example:
 youtube-dl --username "youremail@example.com" --password "yourPassword" --verbose --sleep-interval 120 "https://app.pluralsight.com/library/courses/javascript-fundamentals/"
 ```
 
-
 # IMPORTANT
 The argument `--sleep-interval 120` is important. It means that the program will wait 120s (2 minutes) before it downloads the next video. If you don't use this flag _Pluralsight_ will ban you because you are doing too many requests under a short period of time.
 
