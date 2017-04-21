@@ -34,7 +34,7 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 
 ##### For Windows
 
-Download with npm as above or just download the `exe`-file from the link below and put the `exe` in your _PATH_.
+Download with npm as above or just download the `exe`-file from the link below and [put the `exe` in your _PATH_](https://gist.github.com/jesperorb/836cb398e4bb8dc149902d68d3711295).
 
 [Source: youtube-dl download](https://rg3.github.io/youtube-dl/download.html)
 
