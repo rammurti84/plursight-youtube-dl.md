@@ -31,6 +31,11 @@ sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtub
 sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 
+
+##### For Windows
+
+Download with npm as above or just download the `exe`-file from the link below and put the `exe` in your _PATH_.
+
 [Source: youtube-dl download](https://rg3.github.io/youtube-dl/download.html)
 
 ## Usage
