@@ -6,15 +6,15 @@ The flags you have to supply may vary depending on which site you make a request
 
 ## Installation
 
-##### For **Mac/UNIX**
+##### For **macOS/UNIX**
 
-With `brew`:
+With [`brew`](https://brew.sh/):
 
 ```bash
 brew install youtube-dl
 ```
 
-With `npm`:
+With [`npm`](https://www.npmjs.com/):
 
 ```bash
 npm install youtube-dl
@@ -31,7 +31,7 @@ sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtub
 sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 
-[https://rg3.github.io/youtube-dl/download.html](https://rg3.github.io/youtube-dl/download.html)
+[Source: youtube-dl download](https://rg3.github.io/youtube-dl/download.html)
 
 ## Usage
 
