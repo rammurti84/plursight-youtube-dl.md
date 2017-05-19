@@ -10,7 +10,7 @@ The flags you have to supply may vary depending on which site you make a request
 
 ##### For **macOS/UNIX**
 
-With [`brew`] for macOS(https://brew.sh/):
+With [`brew`](https://brew.sh/)  for macOS:
 
 ```bash
 brew install youtube-dl
