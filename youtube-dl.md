@@ -4,11 +4,13 @@ You can download whole courses from an array of tutorial sites with the CLI tool
 
 The flags you have to supply may vary depending on which site you make a request to.
 
+**You can get a free 3 month trial to Pluralsight by signing up for free to [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)**
+
 ## Installation
 
 ##### For **macOS/UNIX**
 
-With [`brew`](https://brew.sh/):
+With [`brew`] for macOS(https://brew.sh/):
 
 ```bash
 brew install youtube-dl
